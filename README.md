@@ -1,4 +1,4 @@
-#  Soil Collection Mechanism for Mars Rover
+#  Soil Collection Mechanism for Mars Rover-CAD
 
 ## Overview
 This project presents a **mechanized soil collection system** for Mars rovers. The design enables **efficient sample extraction, storage, and sealing** while ensuring minimal contamination from Martian dust. The system is optimized for **planetary exploration missions** where precise soil analysis is required.
